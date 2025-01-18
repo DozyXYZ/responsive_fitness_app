@@ -16,7 +16,7 @@ const ActionButton = ({ children, setSelectedPage }: Props) => {
         >
             {children}
         </AnchorLink>
-    )
+    );
 };
 
 export default ActionButton;

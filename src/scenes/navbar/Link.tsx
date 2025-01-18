@@ -19,7 +19,7 @@ const Link = ({ page, selectedPage, setSelectedPage }: Props) => {
         >
             {page}
         </AnchorLink >
-    )
-}
+    );
+};
 
 export default Link;
