@@ -56,7 +56,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                 >
                     <HText>MORE THAN JUST A GYM</HText>
                     <p className="my-5 text-sm">
-                        Zhro k’yarnak mnalgh'fhtagn, Nyarl Cthulhu’ah, l'vulgtlagln! N'gai n'gha'ghaa hrii, o l'ghftyar!
+                        Zhro k'yarnak mnalgh'fhtagn, Nyarl Cthulhu'ah, l'vulgtlagln! N'gai n'gha'ghaa hrii, o l'ghftyar!
                         Ehye hrii vulgtm'gephai, R'lyeh, ah'nglui, wgah'nagl! U'khthel druy'eh N'ghft! Ia Ia, fhtagn n'ghai.
                         Zhro, wgah'n'guhl, ulk Nyarlathotep.
                     </p>
