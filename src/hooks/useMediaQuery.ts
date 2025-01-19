@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 
-// This hook is used to determine if the screen size matches the query
 const useMediaQuery = (query: string) => {
     const [matches, setMatches] = useState(false);
 
