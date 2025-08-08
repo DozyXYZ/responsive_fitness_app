@@ -2,6 +2,8 @@
 
 EvoGym is a modern gym website built with React, TypeScript, and Vite. This project showcases a responsive and interactive web application that leverages several third-party components and libraries to enhance the user experience.
 
+[Watch the demo video](https://github.com/user-attachments/assets/e46e0c93-f8ad-43f8-9573-fc4c3f4c5138)
+
 ## Features
 
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
@@ -10,6 +12,7 @@ EvoGym is a modern gym website built with React, TypeScript, and Vite. This proj
 - **Dynamic Content**: Various sections of the website, such as benefits and classes, are dynamically rendered.
 
 ## Third-Party Components and Libraries
+
 ### Framer Motion
 
 [Framer Motion](https://www.framer.com/motion/) is used for animations and transitions, making the website more interactive and engaging.
@@ -47,12 +50,14 @@ The project is organized into several main directories:
 To get started with the project, follow these steps:
 
 1. **Clone the repository**:
+
    ```sh
    git clone https://github.com/your-username/evogym.git
    cd evogym
    ```
 
 2. **Install dependencies**:
+
    ```sh
    npm install
    ```
